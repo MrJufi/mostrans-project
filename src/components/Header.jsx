@@ -12,7 +12,10 @@ function Header () {
         <Container>
           <Navbar.Brand href="#home">Rick & Morty</Navbar.Brand>
           <Nav className="me-auto">
+          <NavLink to='/'>
             <Nav.Link href='home'>Home</Nav.Link>
+          </NavLink>
+
             <NavLink to='/character-location'>
               <Nav.Link href='character-location'>Character Location</Nav.Link>
             </NavLink>
