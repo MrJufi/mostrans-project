@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mostrans-project/static/css/main.8e641bab.css",
+    "main.js": "/mostrans-project/static/js/main.9fe030fb.js",
+    "index.html": "/mostrans-project/index.html",
+    "main.8e641bab.css.map": "/mostrans-project/static/css/main.8e641bab.css.map",
+    "main.9fe030fb.js.map": "/mostrans-project/static/js/main.9fe030fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e641bab.css",
+    "static/js/main.9fe030fb.js"
+  ]
+}
